@@ -8,8 +8,8 @@ const {
     Events
 } = Matter;
 
-const cellsHorizontal = 30;
-const cellsVertical = 20;
+const cellsHorizontal = 60;
+const cellsVertical = 40;
 const width = window.innerWidth;
 const height = window.innerHeight;
 
